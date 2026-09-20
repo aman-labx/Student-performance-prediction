@@ -184,6 +184,7 @@ Data Structures & Problem Solving
 Mathematics for Machine Learning
 Machine Learning
 Advanced Web Development
-Disclaimer
+
+Disclaimer:
 
 This project is created for educational and learning purposes.
